@@ -1,0 +1,7 @@
+settings.py
+check.py
+env
+
+# python stuff
+__pycache__
+*.pyc
